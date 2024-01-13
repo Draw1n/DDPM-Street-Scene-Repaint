@@ -1,5 +1,5 @@
 ## 基于DDPM的街景修复
-## Street View Repaint Based on DDPM
+## Street Scene Repaint Based on DDPM
 
   使用了基础的DDPM对街景图像数据集进行训练, 其使用Unet2D网络。
 
@@ -10,7 +10,7 @@
   已训练模型可下载 (https://huggingface.co/Drawin/DDPM-Street-Scene-Repaint/)
 
 
-  The basic DDPM was employed for the training of a street view image dataset, utilizing the Unet2D network. 
+  The basic DDPM was employed for the training of a street scene image dataset, utilizing the Unet2D network. 
 
   The dataset, sourced from Cityscapes (www.cityscapes-dataset.com), comprises 10,000 three-channel images with a resolution of 128x128, obtained through central cropping and resizing.
 
