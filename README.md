@@ -28,17 +28,23 @@ repaint: VRAM>2GB
 
 ### 源码说明(Source description)
 
-##### diffusers.ipynb :
+#### diffusers.ipynb :
 
-模型定义与训练
+模型定义与训练.
 
-Model definition and training
+Model definition and training.
 
-##### repaint.ipynb : 
+#### repaint.ipynb : 
 
-模型推理与图像修复
+模型推理与图像修复.
 
-model inference and image repaint
+model inference and image repaint.
+
+#### DenoisePipeline : 
+
+重写的推理管道.
+
+Rewritten denoising pipeline.
 
 ### 参考(reference):
 
