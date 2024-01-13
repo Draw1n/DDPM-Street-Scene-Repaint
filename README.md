@@ -18,6 +18,7 @@
 
   The trained model can be downloaded ( https://huggingface.co/Drawin/DDPM-Street-Scene-Repaint/ )
 
+  ![Image text](sample.png)
 
 ### 运行环境(Environment):
 
