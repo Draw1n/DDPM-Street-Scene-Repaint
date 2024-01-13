@@ -1,7 +1,7 @@
 ## 基于DDPM的街景修复
 ## Street Scene Repaint Based on DDPM
 
-使用了基础的DDPM对街景图像数据集进行训练, 其使用Unet2D网络。模型经过8小时训练, 已形成初步的生成效果。
+使用了基础的DDPM对街景图像数据集进行训练, 其使用Unet2D网络。
 
 数据集来自Cityscapes(www.cityscapes-dataset.com), 经过中心裁剪和resize得到10000张128x128分辨率的三通道图像。
 
@@ -10,7 +10,7 @@
 已训练模型可下载 (https://huggingface.co/Drawin/DDPM-Street-Scene-Repaint/)
 
 
-The basic DDPM was employed for the training of a street scene image dataset, utilizing the Unet2D network. After 8 hours of training, the model has produced preliminary generative results. 
+The basic DDPM was employed for the training of a street scene image dataset, utilizing the Unet2D network. 
 
 The dataset, sourced from Cityscapes (www.cityscapes-dataset.com), comprises 10,000 three-channel images with a resolution of 128x128, obtained through central cropping and resizing.
 
