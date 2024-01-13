@@ -54,3 +54,5 @@ https://github.com/huggingface/diffusers
 https://huggingface.co/docs/diffusers/api/pipelines/ddpm
 
 https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/training_example.ipynb
+
+##### 课程项目, 仅供参考, 若有问题请致信 drawin_feng@qq.com
