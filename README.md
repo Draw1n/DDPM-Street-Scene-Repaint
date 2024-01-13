@@ -7,9 +7,9 @@
 
 在图像修复过程中, 首先对被遮罩的图像进行加噪, 输入给模型推理后得到去噪后的图像, 再使用去噪后的图像对缺失部分填充, 以达到修复的功能。
 
-已训练模型可从下方下载
+已训练模型可下载 (https://huggingface.co/Drawin/DDPM-Street-Scene-Repaint/)
 
-https://huggingface.co/Drawin/DDPM-Street-Scene-Repaint/
+---
 
 The basic DDPM was employed for the training of a street scene image dataset, utilizing the Unet2D network. After 8 hours of training, the model has produced preliminary generative results. 
 
@@ -17,9 +17,8 @@ The dataset, sourced from Cityscapes (www.cityscapes-dataset.com), comprises 10,
 
 During the image restoration process, the initially masked images are subjected to noise addition. The resultant noisy images are then input into the model for inference, yielding denoised images. Subsequently, the denoised images are utilized to fill in the missing regions, serving the purpose of image restoration.
 
-The trained model can be downloaded below
+The trained model can be downloaded ( https://huggingface.co/Drawin/DDPM-Street-Scene-Repaint/ )
 
-https://huggingface.co/Drawin/DDPM-Street-Scene-Repaint/
 
 ### 运行环境(Environment):
 
