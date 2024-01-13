@@ -9,7 +9,6 @@
 
 已训练模型可下载 (https://huggingface.co/Drawin/DDPM-Street-Scene-Repaint/)
 
----
 
 The basic DDPM was employed for the training of a street scene image dataset, utilizing the Unet2D network. After 8 hours of training, the model has produced preliminary generative results. 
 
