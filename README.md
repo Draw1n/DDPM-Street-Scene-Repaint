@@ -26,6 +26,20 @@ train:     VRAM>20GB
 
 repaint: VRAM>2GB
 
+### 源码说明(Source description)
+
+diffusers.ipynb :
+
+模型定义与训练
+
+Model definition and training
+
+repaint.ipynb : 
+
+模型推理与图像修复
+
+model inference and image repaint
+
 ### 参考(reference):
 
 Thanks to huggingface/diffusers for the resource
