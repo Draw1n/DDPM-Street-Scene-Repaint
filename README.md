@@ -28,13 +28,13 @@ repaint: VRAM>2GB
 
 ### 源码说明(Source description)
 
-diffusers.ipynb :
+##### diffusers.ipynb :
 
 模型定义与训练
 
 Model definition and training
 
-repaint.ipynb : 
+##### repaint.ipynb : 
 
 模型推理与图像修复
 
